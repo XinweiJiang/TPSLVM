@@ -1,0 +1,8 @@
+Log file for VHMC for file: oil_results
+Total number of samples in this file = 10
+Dimension of each sample = 24
+Samples in this file generated using:
+Trajectory length = 10
+Rejected first  5 samples 
+Step size, epsilon = 2.000000e-001
+Average acceptace ratio = 0.906713
